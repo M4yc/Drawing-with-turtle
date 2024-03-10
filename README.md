@@ -10,9 +10,9 @@
 
 # Screenshots
 
-![img1](/Screenshot_V.png)
+![img1](/img/Screenshot_V.png)
 
-![img2](/Screenshot_WD.png)
+![img2](/img/Screenshot_WD.png)
 
 # Technologies and libraries used
 - Python
