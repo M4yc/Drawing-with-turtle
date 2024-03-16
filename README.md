@@ -22,6 +22,10 @@
 
 # Author
 
+<img loading="lazy" src="https://avatars.githubusercontent.com/u/62727540?v=4" width=115 style="border-radius: 50%;">
+
+
+
 - Maycon Vinicius B. Araújo - ``M4ycosoft``
 
 <a href="https://www.linkedin.com/in/mayconaraujo-tech/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
